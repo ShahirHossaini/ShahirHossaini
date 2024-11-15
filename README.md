@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShahirHossaini
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on open sourse project
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me in Linkdin: shahir hossaini
 
 <!---
